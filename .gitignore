@@ -1,0 +1,9 @@
+assets/
+*.zip
+*.tgz
+*.tar.gz
+*.exe
+*.whl
+*.log
+.env*
+__pycache__/
