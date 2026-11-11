@@ -1,0 +1,4 @@
+interface:
+  display_name: "一键部署大肥鱼"
+  short_description: "在 DSH2 部署大肥鱼，接通 QQ、抖音和记忆，扫码后继续验收"
+  default_prompt: "用 $dafeiyu-deploy 一键部署大肥鱼，需要我扫码时提示我，完成后继续验收。"
