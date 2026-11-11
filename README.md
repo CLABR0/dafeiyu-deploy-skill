@@ -25,5 +25,3 @@
 - [Skill 入口](skills/dafeiyu-deploy/SKILL.md)：部署、检查和登录流程。
 - [人工操作提示清单](skills/dafeiyu-deploy/references/login-and-verify.md)：什么情况下该请用户扫码、确认账号或填写设置。
 - [验收口径](skills/dafeiyu-deploy/references/verification.md)：哪些状态算验证成功，哪些必须实测。
-
-这是独立的部署辅助项目，不是 DeepSeek、腾讯或抖音的官方发行版。仓库不含登录态、私信、个人密钥或完整离线包；默认验收不发送消息、不点赞、不评论、不发布作品。
